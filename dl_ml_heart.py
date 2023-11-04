@@ -45,6 +45,8 @@ print(model.predict(x_test))
 loss, accuracy = model.evaluate(x_test, y_test)
 # print("Accuracy =", accuracy, ", Loss =", loss)
 
+#Accuracy was found to be 98.6%
+
 """---
 ###Machine Learning:
 """
